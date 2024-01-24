@@ -4,9 +4,9 @@
 
 ## `Структура проекта`
 
-### :point_right:  [Перейти в раздел для Телеграмм-бота](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
+### :point_right:  [Перейти в раздел для Телеграмм-бота]
 
-### :point_right:  [Перейти в раздел для Модели](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
+### :point_right:  [Перейти в раздел для Модели]
 
 ![](img/Birds%20Detection.jpg)
 
