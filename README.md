@@ -1,6 +1,6 @@
 # `Birds Detection`
 
-<img src='img/main.jpeg' width=600>
+<img src='img:main.jpeg' width=600>
 
 ## `Структура проекта`
 
